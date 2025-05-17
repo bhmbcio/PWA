@@ -12,7 +12,9 @@ const FILES = [ // Файлы, которые будут сохранены в кэш при установке
     "/manifest.json",
     "/offline.html",
     "/images/photo.jpg",
-    "/images/qrcode.png",
+    "/images/qrcode-telegram.png",
+    "/images/qrcode-email.png",
+    "/images/qrcode-github.png",
     "/icons/icon-192.png",
     "/icons/icon-512.png"
 ];
