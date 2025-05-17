@@ -1,0 +1,23 @@
+{
+    {
+        "name": "Визитка", // Название приложения
+        "short_name": "Визитка", // Короткое имя
+        "start_url": ".", // Начальная страница
+        "display": "standalone", // Без адресной строки
+        "background_color": "#ffffff", // Цвет фона при запуске
+        "theme_color": "#b8979d", // Цвет темы
+        "icons": [
+            {
+                "src": "icons/icon-192.png",
+                "sizes": "192x192",
+                "type": "image/png"
+            },
+            {
+                "src": "icons/icon-512.png",
+                "sizes": "512x512",
+                "type": "image/png"
+            }
+        ]
+    }
+
+}
