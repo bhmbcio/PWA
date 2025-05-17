@@ -1,6 +1,6 @@
-self.addEventListener("install", ...); // Кэширует файлы
-self.addEventListener("activate", ...); // Удаляет старые кэши
-self.addEventListener("fetch", ...); // Обслуживает запросы из кэша или интернета
+//self.addEventListener("install", ...); // Кэширует файлы
+//self.addEventListener("activate", ...); // Удаляет старые кэши
+//self.addEventListener("fetch", ...); // Обслуживает запросы из кэша или интернета
 
 const CACHE_NAME = "card-v1"; // Название кэша (можно менять при обновлениях)
 
